@@ -9,8 +9,8 @@ To run this in the cloud you can use Binder.
 3- hit build (can take a few minuites)
 
 ** PLEASE NOTE **
-Location data should be in the form Latt Long (52.002659,-0.524454) as a string
-In youtr data frame the headings should be "location" & "detinationA"
+Location data should be in the form Lat Long (52.002659,-0.524454) as a string
+In your data frame the headings should be "location" & "detinationA"
 
 Issues you may come across
 
